@@ -1,2 +1,2 @@
-# Spraks-Foundation-internship
-For Spraks data analysis tasks
+# Excel Data Analysis Projects
+For Spraks data analysis tasks & other projects
